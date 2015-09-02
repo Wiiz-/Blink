@@ -13,3 +13,16 @@ bin-release/
 /.gradle/2.5/taskArtifacts
 /.gradle/*.log
 /.project
+/*.launch
+/config/*.cfg
+/config/*.properties
+/logs
+/options.txt
+/saves/New World/DIM-1/data
+/saves/New World/DIM-1
+/saves/New World/DIM1/data
+/saves/New World/DIM1
+/saves/New World/data
+/saves/New World
+/screenshots
+/usernamecache.json
