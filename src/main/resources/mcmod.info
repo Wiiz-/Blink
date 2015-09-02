@@ -1,0 +1,16 @@
+[
+{
+  "modid": "blink",
+  "name": "Blink",
+  "description": "Adds the ability blink, that allows the player to teleport around the world.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Wiiz-"],
+  "credits": "The MCP and Forge teams for creating useful modding tools",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
